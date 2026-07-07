@@ -2,7 +2,7 @@
 # Marvel Cast Dataset - Exploratory Data Analysis (EDA)
 
 ## Project Overview
-
+ 
 This project performs **Exploratory Data Analysis (EDA)** on the **Marvel Cast Dataset** using Python. The objective is to clean, analyze, and visualize the dataset to discover meaningful patterns related to Marvel movies, actors, cast order, and popularity. The project demonstrates the complete EDA workflow, including data wrangling, statistical analysis, and data visualization.
 
 ---
